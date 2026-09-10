@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ananya-cyber-city-animated.svg" width="100%">
+  <img src="./ananya-cyber-city.gif" width="100%">
 </p>
  ## 🧭 About Me
 
