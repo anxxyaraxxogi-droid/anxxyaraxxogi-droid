@@ -1,35 +1,28 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hey,%20I'm%20Ananya!&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+# Hey, I'm Ananya 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%E2%86%92+Data+%E2%86%92+ML;Turning+messy+data+into+something+useful;Building%2C+learning%2C+breaking%2C+rebuilding;Currently+figuring+things+out+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%7C+Building+%7C+Breaking+%7C+Rebuilding;Exploring+Data+%26+Machine+Learning;Python+%7C+Data+%7C+Software+Development;Turning+ideas+into+things+that+actually+work" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anxxyaraxxogi-droid&style=flat-square&color=blueviolet" />
-
-</div>
+<p>
+  <i>
+    CSE student exploring data, machine learning, and software development.
+    <br>
+    I like working with data, figuring out how things work,
+    and building projects that turn ideas into something real.
+  </i>
+</p>
 
 <br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   $ whoami                                               │
-│                                                          │
-│   ananya                                                 │
-│   ├── cse student                                        │
-│   ├── python + data enthusiast                           │
-│   ├── exploring machine learning                        │
-│   └── occasionally fighting with semicolons              │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+</div>
 
----
 
  ## 🧭 About Me
 
