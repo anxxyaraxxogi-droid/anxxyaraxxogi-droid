@@ -1,8 +1,8 @@
-## Hi there 👋
+
  
 <div align="center">
 
-# Hey, I'm Ananya 👋
+# Hey, I'm Ananya.
 
 ### Computer Science Student • Developer • AI/ML & Data Enthusiast
 
