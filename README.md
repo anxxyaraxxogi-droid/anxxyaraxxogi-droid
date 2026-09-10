@@ -2,7 +2,8 @@
 <p align="center">
   <img src="./ananya-cyber-city.webp" width="100%">
 </p>
- ### 🧭 About Me
+
+ ###  🧭 About Me
 
 I'm a Computer Science student interested in building software that combines
 **intelligent systems, data, and practical problem solving**.
