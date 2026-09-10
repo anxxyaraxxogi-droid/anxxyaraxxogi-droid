@@ -1,7 +1,6 @@
- <p align="center">
-  <img src="./cyber-city.svg" width="100%">
+<p align="center">
+  <img src="./ananya-cyber-city-animated.svg" width="100%">
 </p>
-
  ## 🧭 About Me
 
 I'm a Computer Science student interested in building software that combines
