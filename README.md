@@ -1,4 +1,4 @@
-###hi, I'm Ananya.
+### hi, I'm Ananya.
 <p align="center">
   <img src="./ananya-cyber-city.webp" width="100%">
 </p>
