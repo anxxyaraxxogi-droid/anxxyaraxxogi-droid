@@ -95,51 +95,82 @@ Tools and technologies I work with include:
 I'm particularly interested in using these tools to turn messy datasets
 into information that can actually support decisions.
 
-🚀 Featured Projects
-🤖 SIH2026
-AI-Powered Industrial Safety Platform
+ ## 🚀 Featured Projects
 
-An industrial safety platform designed around safety-data analysis and risk assessment, combining a web client, backend services, and AI processing.
+### 🛡️ SIH2026
+**AI-Powered Industrial Safety Platform**
 
-Tech: Python FastAPI TypeScript LLM Ollama
+AI-powered platform focused on industrial safety, risk assessment, and safety-data analysis using FastAPI, TypeScript, and local LLMs.
 
-🔗 View Repository
+**Tech Stack**
 
-🧠 SkillMap
-Skill Mapping & Management Platform
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,fastapi" />
+</p>
 
-A web application focused on organizing, managing, and working with user skill data, developed as a collaborative software project.
+🔗 **[View Project](https://github.com/anxxyaraxxogi-droid/SIH2026)**
 
-Tech: JavaScript Node.js Express Web Development
 
-🔗 View Repository
+### 🗺️ SkillMap
+**Skill Mapping & Management Platform**
 
-🩸 Rakt Setu
-Smart Blood Donation Platform
+A web application for organizing, managing, and visualizing user skills and related data.
 
-A platform designed to streamline blood donation workflows through donor matching, eligibility screening, request management, and donor insights.
+**Tech Stack**
 
-Tech: JavaScript Firebase Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express" />
+</p>
 
-🔗 View Repository
+🔗 **[View Project](https://github.com/anxxyaraxxogi-droid/SkillMap)**
 
-🎮 FinQuest
-Gamified Financial Literacy Platform
 
-An interactive financial-learning platform combining lessons, quizzes, simulations, progression systems, and rewards to make financial education more engaging.
+### 🩸 Rakt Setu
+**Smart Blood Donation & Request Platform**
 
-Tech: JavaScript React HTML CSS jsPDF
+A smart blood donation platform featuring donor matching, eligibility screening, request management, and real-time donor insights.
 
-🔗 View Repository
+**Tech Stack**
 
-🏗️ The Greatest Estate Developer
-Excavillary Engineer
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase" />
+</p>
 
-A collaborative engineering project built around an original concept, with the core problem-solving approach and initial algorithmic logic developed from the ground up.
+🔗 **[View Project](https://github.com/anxxyaraxxogi-droid/Rakt_Setu)**
 
-Tech: C C++ Algorithms
 
-🔗 View Repository
+### 💰 FinQuest
+**Gamified Financial Education Platform**
+
+An interactive financial-literacy platform combining lessons, quizzes, budgeting, investment simulations, life simulations, achievements, and reward-based progression.
+
+**Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+🔗 **[View Project](https://github.com/anxxyaraxxogi-droid/Hackstreets-Guys)**
+
+
+### 🏗️ The Greatest Estate Developer
+**Algorithmic Engineering & Strategy Project**
+
+A collaborative C/C++ project built around an original engineering concept and custom algorithmic problem-solving logic.
+
+**My Contribution**
+- Original project concept
+- Core problem-solving logic
+- Algorithm design
+- Initial prototyping and logic development
+
+**Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+🔗 **[View Project](https://github.com/anxxyaraxxogi-droid/The_Greatest_Estate_Developer_Excavillary_Engineer)**
 
 # 🛠️ Tech Stack & Skills
 
@@ -150,7 +181,6 @@ cleaning → analysis → visualization → machine learning → application dev
 
 ## 🐍 Programming & Core Development
 
- ## 💻 Programming & Core Development
 
 ### 🧠 Languages
 
