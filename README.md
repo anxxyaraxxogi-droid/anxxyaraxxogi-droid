@@ -316,10 +316,10 @@ Documentation
 Contribution Graph
 <div align="center">
 Current Status
-Building      █████████░░░  projects
-Learning      ██████████░░  constantly
-Debugging     ███████████░  unfortunately
-Git knowledge ███████░░░░░  getting there
+Building      █████████░░░  projects <br>
+Learning      ██████████░░  constantly<br>
+Debugging     ███████████░  unfortunately<br>
+Git knowledge ███████░░░░░  getting there<br>
 Ideas         ████████████  too many
 </div>
 
