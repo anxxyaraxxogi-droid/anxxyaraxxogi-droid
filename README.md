@@ -202,7 +202,7 @@ cleaning → analysis → visualization → machine learning → application dev
 
 ### Python Data & ML Ecosystem
 
-```text
+
 NumPy
    ↓
 Numerical Computing
