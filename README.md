@@ -1,25 +1,6 @@
-# Hey, I'm Ananya 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%7C+Building+%7C+Breaking+%7C+Rebuilding;Exploring+Data+%26+Machine+Learning;Python+%7C+Data+%7C+Software+Development;Turning+ideas+into+things+that+actually+work" alt="Typing SVG" />
-</a>
-
-<br>
-
-<p>
-  <i>
-    CSE student exploring data, machine learning, and software development.
-    <br>
-    I like working with data, figuring out how things work,
-    and building projects that turn ideas into something real.
-  </i>
+ <p align="center">
+  <img src="./cyber-city.svg" width="100%">
 </p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
-
-</div>
 
  ## 🧭 About Me
 
