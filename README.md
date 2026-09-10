@@ -1,27 +1,53 @@
- <div align="center">
+<div align="center">
 
-# Hey, I'm Ananya 👋
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ANANYA'S WORLD                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%7C+Building+%7C+Breaking+%7C+Rebuilding;Exploring+Data+%26+Machine+Learning;Python+%7C+Data+%7C+Software+Development;Turning+ideas+into+things+that+actually+work" alt="Typing SVG" />
+<a href="#night-mode">
+
+<img src="YOUR-DAY-CITY-GIF-URL"
+     width="100%"
+     alt="Ananya's city - day mode"/>
+
 </a>
 
 <br>
 
-<p>
-  <i>
-    CSE student exploring data, machine learning, and software development.
-    <br>
-    I like working with data, figuring out how things work,
-    and building projects that turn ideas into something real.
-  </i>
-</p>
+<h1>
+  𝐇𝐞𝐲, 𝐈'𝐦 𝐀𝐧𝐚𝐧𝐲𝐚 👋
+</h1>
 
-<br>
+<a href="#night-mode">
+  <img src="https://img.shields.io/badge/☀️%20DAY-Click%20for%20Night-FFD166?style=for-the-badge&labelColor=161616"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
+<br><br>
 
-</div>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=700&lines=I+like+data.+A+lot.;Python+%E2%86%92+Data+%E2%86%92+ML;I+build+things+to+figure+things+out.;currently+learning%2C+building+%26+breaking+things."/>
+</a>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="50%" align="left">
+
+### 🌱 a little about me
+
+I'm a **CSE student** exploring the world of **data, machine learning & software development**.
+
+I like taking messy problems, digging through the data, figuring out the patterns, and turning ideas into things that actually work.
+
+Currently somewhere between:
+
+`learning → building → debugging → "WAIT IT WORKS"`
+
+</td>
+
+<td width="50%" align="center">
 
 
  ## 🧭 About Me
