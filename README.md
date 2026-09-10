@@ -298,58 +298,6 @@ cleaning → analysis → visualization → machine learning → application dev
 - Performance analysis
 - Data-driven prediction
 
-### Python Data & ML Ecosystem
-
-
-NumPy
-   ↓
-Numerical Computing
-   ↓
-Pandas
-   ↓
-Data Cleaning & Manipulation
-   ↓
-Matplotlib / Seaborn
-   ↓
-Visualization & EDA
-   ↓
-Scikit-learn
-   ↓
-Machine Learning
-
-How I Like to Build
-        IDEA
-          │
-          ▼
-   "Can we build this?"
-          │
-          ▼
-      BREAK IT DOWN
-          │
-          ▼
-   ┌───────────────┐
-   │   DESIGN      │
-   │   LOGIC       │
-   │   CODE        │
-   │   TEST        │
-   └───────────────┘
-          │
-          ▼
-      SOMETHING
-       WORKS 🎉
-          │
-          ▼
-    "Okay, now why
-     did that break?"
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       LEARN
-          │
-          ▼
-       REBUIL
 
 Developer Tools & Workflow
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
@@ -364,17 +312,15 @@ Code organization
 Debugging
 Documentation
 
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anxxyaraxxogi-droid&show_icons=true&hide_border=true&theme=transparent" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxxyaraxxogi-droid&layout=compact&hide_border=true&theme=transparent" height="170"/> </div>
-
+ 
 Contribution Graph
 <div align="center">
-
-</div>
-
 Current Status
 Building      █████████░░░  projects
 Learning      ██████████░░  constantly
 Debugging     ███████████░  unfortunately
 Git knowledge ███████░░░░░  getting there
 Ideas         ████████████  too many
+</div>
+
+
