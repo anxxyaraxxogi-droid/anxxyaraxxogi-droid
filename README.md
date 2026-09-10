@@ -1,21 +1,19 @@
 
  
-<div align="center">
+ <h1 align="center">Hi, I'm Ananya</h1>
 
-# Hey, I'm Ananya.
+<h3 align="center">
+  Data • Machine Learning • Python • Software Development
+</h3>
 
-### Computer Science Student • Developer • AI/ML & Data Enthusiast
-
-I like turning **"what if we built this?"** into something that actually runs.
-
-I'm currently focused on **Machine Learning, Python, software development, algorithms, and data-driven applications**, while building projects that turn ideas into practical solutions.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anxxyaraxxogi-droid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ananya-rastogi-a12996274)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-rastogi-a12996274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ananya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anxxyaraxxogi-droid">
+    <img src="https://img.shields.io/badge/GitHub-Ananya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
