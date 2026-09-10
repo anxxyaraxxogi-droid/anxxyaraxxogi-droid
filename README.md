@@ -1,19 +1,28 @@
 
- 
- <h1 align="center">Hi, I'm Ananya</h1>
+ <div align="center">
 
-<h3 align="center">
-  Data • Machine Learning • Python • Software Development
-</h3>
+# Hey, I'm Ananya 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananya-rastogi-a12996274/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ananya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anxxyaraxxogi-droid">
-    <img src="https://img.shields.io/badge/GitHub-Ananya-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%7C+Building+%7C+Breaking+%7C+Rebuilding;Exploring+Data+%26+Machine+Learning;Python+%7C+Data+%7C+Software+Development;Turning+ideas+into+things+that+actually+work" alt="Typing SVG" />
+</a>
+
+<br>
+
+<p>
+  <i>
+    CSE student exploring data, machine learning, and software development.
+    <br>
+    I like working with data, figuring out how things work,
+    and building projects that turn ideas into something real.
+  </i>
 </p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
+
+</div>
 
 ---
 
