@@ -150,14 +150,83 @@ cleaning → analysis → visualization → machine learning → application dev
 
 ## 🐍 Programming & Core Development
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+ ## 💻 Programming & Core Development
+
+### 🧠 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css" />
 </p>
 
+### ⚙️ Core Concepts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithm%20Design-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Complexity%20Analysis-1f2937?style=for-the-badge" />
+</p>
+
+**Programming Fundamentals**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Algorithm Design & Optimization
+- Recursion & Backtracking
+- Searching & Sorting
+- Time & Space Complexity
+- Modular & Reusable Programming
+- File Handling
+- Exception Handling
+- Debugging & Code Optimization
+
+### 🌐 Web & Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,fastapi" />
+</p>
+
+- REST API Development
+- Client-Server Architecture
+- API Integration
+- JSON & Data Exchange
+- Routing & Middleware
+- Backend Development
+- Frontend ↔ Backend Integration
+- Authentication Fundamentals
+- Environment & Configuration Management
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+- SQL
+- Relational Database Concepts
+- CRUD Operations
+- Joins & Subqueries
+- Aggregation & Grouping
+- Keys & Constraints
+- Database Design Fundamentals
+- Data Modeling
+- Query Optimization Fundamentals
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+- Git & GitHub
+- Branching & Merging
+- Pull Requests
+- Version Control
+- Collaborative Development
+- API Testing
+- Debugging
+- Repository Management
+- Command Line / Linux Fundamentals
 **Core Skills**
 
 - Object-Oriented Programming
