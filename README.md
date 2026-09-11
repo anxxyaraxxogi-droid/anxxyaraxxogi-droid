@@ -1,6 +1,6 @@
 ### hi, I'm Ananya.
 <p align="center">
-  <img src="./ananya-cyber-city.webp" width="100%">
+  <img src="./ananya-cyber-city-animated (1).svg" width="100%">
 </p>
 
  ###  🧭 About Me
